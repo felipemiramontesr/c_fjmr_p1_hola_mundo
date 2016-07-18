@@ -14,4 +14,4 @@
 int main(){
 
 	/*Impresión del mensaje.*/
-	printf("¡Hola! Este es tu primer programa desarrollado con lenguaje C.\n");}
+	printf("¡Hola! Este es tu primer programa codificado en lenguaje C.\n");}
