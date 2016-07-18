@@ -1,10 +1,12 @@
-/* Descripción del código: 
- * programa que realiza la impresión
- * de la frase "¡Hola mundo!" en terminal.
- *
- * Codificador: Mtro. Felipe de Jesús Miramontes Romero
- * E-mail: felipemiramontesr@gmail.com
- * Fecha: dom 17 jul 2016 20:38
+/* DESCRIPCIÓN DEL CÓDIGO *********************************************/
+/* Programa que imprime la frase "Hola mundo!"      ********************
+ * *********************************************************************
+ * *********************************************************************
+ * Codificador: Mtro. Felipe de Jesús Miramontes Romero ****************
+ * Fecha: dom 17 jul 2016 21:20                         ****************
+ * E-mail: felipemiramontesr@gmail.com                  ****************
+ * Perfíl Github: felipemiramontesr                     ****************
+ * *********************************************************************
  */
  
 /*Paquetes utilizados.*/
